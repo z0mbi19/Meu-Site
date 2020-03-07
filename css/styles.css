@@ -1,8 +1,3 @@
-div{
-  background-color: #706c61;
-  color: white;
-  padding-left: 5px;
-}
 body{
   background-color: #333333;
   margin: 0;
@@ -10,4 +5,22 @@ body{
 
 h1{
   margin: 0;
+}
+
+.top-container{
+  background-color: #706c61;
+  color: white;
+  padding-left: 5px;
+}
+
+.middle-container{
+  height: 200px;
+  width: 200px;
+  background-color: blue;
+}
+
+.bottom-container{
+  height: 200px;
+  width: 200px;
+  background-color: red;
 }
